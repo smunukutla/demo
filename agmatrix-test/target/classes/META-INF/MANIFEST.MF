@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: sandeep
+Build-Jdk: 1.7.0_04
+Implementation-Title: agmatrix-test
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: agmatrix-test
+Created-By: Maven Integration for Eclipse
+
